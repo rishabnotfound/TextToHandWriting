@@ -13,7 +13,7 @@ Welcome to Text to Handwriting, a handy website tool that allows you to convert 
 
 ## How to Use 🖥️
 
-1. Visit the [Text to Handwriting website](https://text2handwriting.vercel.app/) in your web browser.
+1. Visit the [Text to Handwriting website](https://rishabnotfound.github.io/TextToHandWriting/) in your web browser.
 2. Enter the text you want to convert into the provided input field.
 3. Select your desired handwritten font from the font options.
 4. Customize the font size, color, and style if desired.
